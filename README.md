@@ -13,3 +13,6 @@ setup - npm install -D tailwindcss postcss autoprefixer
 
 file saver - to save files created by users 
       - npm install file-saver
+
+
+# Project under descripency due to OpenAI package version conflict as version 3 is completely overhauled by openai in v4
